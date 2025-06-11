@@ -1,5 +1,5 @@
 # Sports Performance Analytics Specialization
-### A massive open online course (MOOC) from the University of Michigan
+### A series of massive open online course (MOOCs) from the University of Michigan
 
 Sports analytics has emerged as a field of research with increasing popularity propelled, in part, by the real-world success illustrated by the best-selling book and motion picture, Moneyball. Analysis of team and player performance data has continued to revolutionize the sports industry on the field, court, and ice as well as in living rooms among fantasy sports players and online sports gambling.
 
@@ -7,7 +7,7 @@ Drawing from real data sets in Major League Baseball (MLB), the National Basketb
 
 ---
 
-The five folders above contain my work from the Michigan sports analytics MOOC:
+The five folders above contain my work from the Michigan sports analytics specialization:
 - **[Foundations of Sports Analytics:](https://github.com/sknadler/umich-sports-analytics/tree/main/Foundations_of_Sports_Analytics)** Use Python to analyze team performance in sports. Become a producer of sports analytics rather than a consumer.
 - **Moneyball and Beyond:** Program data using Python to test the claims that lie behind the Moneyball story. Use statistics to conduct your own team and player analyses.
 - **Prediction Models with Sports Data:** Learn how to generate forecasts of game results in professional sports using Python.
