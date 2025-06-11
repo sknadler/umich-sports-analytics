@@ -1,1 +1,1 @@
-# umich-sports-analytics
+# Sports Performance Analytics Specialization | University of Michigan
