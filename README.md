@@ -8,7 +8,7 @@ Drawing from real data sets in Major League Baseball (MLB), the National Basketb
 ---
 
 The five folders above contain my work from the Michigan sports analytics specialization:
-- **[Foundations of Sports Analytics:](https://github.com/sknadler/umich-sports-analytics/tree/main/Foundations_of_Sports_Analytics)** Use Python to analyze team performance in sports. Become a producer of sports analytics rather than a consumer.
+- **[Foundations of Sports Analytics:](https://github.com/sknadler/umich-sports-analytics/tree/main/1._Foundations_of_Sports_Analytics)** Use Python to analyze team performance in sports. Become a producer of sports analytics rather than a consumer.
 - **Moneyball and Beyond:** Program data using Python to test the claims that lie behind the Moneyball story. Use statistics to conduct your own team and player analyses.
 - **Prediction Models with Sports Data:** Learn how to generate forecasts of game results in professional sports using Python.
 - **Wearable Technologies and Sports Analytics:** Understand how wearable devices can be used to help characterize both training and performance.
